@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://houseofbrode.github.io/readme-dyk5us/sitemap.xml
